@@ -10,16 +10,16 @@
 ## 目录
 ***
 
-* [开篇](https://privacy.dbarobin.com/#/?id=%e5%bc%80%e7%af%87)
-* [PGP](https://privacy.dbarobin.com/#/?id=pgp)
-* [Telegram](https://privacy.dbarobin.com/#/?id=telegram)
-* [DuckDuckGo](https://privacy.dbarobin.com/#/?id=duckduckgo)
-* [Firefox](https://privacy.dbarobin.com/#/?id=firefox)
-* [Google Voice](https://privacy.dbarobin.com/#/?id=google-voice)
-* [国内手机号](https://privacy.dbarobin.com/#/?id=%e5%9b%bd%e5%86%85%e6%89%8b%e6%9c%ba%e5%8f%b7)
-* [Gmail](https://privacy.dbarobin.com/#/?id=gmail)
-* [ProtonMail](https://privacy.dbarobin.com/#/?id=protonmail)
-* [Apple ID](https://privacy.dbarobin.com/#/?id=apple-id)
+* [开篇](#%e5%bc%80%e7%af%87)
+* [PGP](#pgp)
+* [Telegram](#telegram)
+* [DuckDuckGo](#duckduckgo)
+* [Firefox](#firefox)
+* [Google Voice](#google-voice)
+* [国内手机号](#%e5%9b%bd%e5%86%85%e6%89%8b%e6%9c%ba%e5%8f%b7)
+* [Gmail](#gmail)
+* [ProtonMail](#protonmail)
+* [Apple ID](#apple-id)
 
 ## 系列文章
 ***
