@@ -1,5 +1,4 @@
 # 隐私极客
-***
 
 **隐私极客，Privacy Geek。**
 
@@ -8,7 +7,6 @@
 希望从今以后，隐私不会再只是茶余饭后一笑而过的谈资。
 
 ## 目录
-***
 
 * [开篇](#%e5%bc%80%e7%af%87)
 * [PGP](#pgp)
@@ -22,10 +20,8 @@
 * [Apple ID](#apple-id)
 
 ## 系列文章
-***
 
 ### 开篇
-***
 
 酝酿了一段时间，新专栏「**隐私极客**」终于和大家见面了。
 
@@ -46,7 +42,6 @@
 借用 [PeterCxy](https://github.com/PeterCxy) 的一句话：**希望从今以后，隐私不会再只是茶余饭后一笑而过的谈资**。
 
 ### PGP
-***
 
 4 月份这个专栏开了个头，这算是「**隐私极客**」的第一篇文章。想了许久，第一篇文章写什么主题呢？列了很多大纲，最后还是选定 PGP。
 
@@ -95,7 +90,6 @@ PGP 适用于大多数加密传输的场景。有了 PGP，读者甚至可以在
 只要自己的私钥安全、密码安全，可以说只有信息交互的双方才能解密，再顶级的黑客也无能为力。保护隐私非常重要，PGP 就是一个非常实用的利器，希望本文能给注重隐私的读者带来一些帮助。
 
 ### Telegram
-***
 
 上一篇文章向大家介绍了隐私利器 [PGP](https://dbarobin.com/2019/05/02/privacy-geek-pgp)，好奇的是，读者有去实践吗？如果遇到有任何疑惑，欢迎交流。在博客的 [关于](https://dbarobin.com/about) 页面可以找到联系方式。
 
@@ -160,7 +154,6 @@ Telegram 作为一款注重隐私和安全的及时通讯工具，比同类产�
 好了，写到这里吧，希望对读者有所帮助。
 
 ### DuckDuckGo
-***
 
 上一篇文章给大家介绍了 [Telegram](https://dbarobin.com/2019/05/14/privacy-geek-telegram) 以及值得注意的一些技巧。本文给大家讲讲搜索引擎 DuckDuckGo。
 
@@ -215,7 +208,6 @@ Google 每秒 4 万～8 万次搜索量，强大的计算能力和数据采集�
 DuckDuckGo 不过滤结果，不追踪你的搜索记录，把搜索引擎隐私发挥到了极致，帮助你在 Cyberspace 中自由流荡。
 
 ### Firefox
-***
 
 上一篇文章讲解了 [DuckDuckGo](https://dbarobin.com/2019/06/07/privacy-geek-duckduckgo)，提到 DuckDuckGo 适合 Firefox 配合使用，本篇文章就为大家讲解 Firefox。
 
@@ -257,7 +249,6 @@ Firefox 可以说是黑客利器，连 Tor Browser 都是基于 Firefox ESR 的�
 注重隐私未来是大势所趋，Firefox 浏览器将成为这部分用户的首选。Chrome 和 Google 的服务绑定太深，抛开 Chrome，选择还有很多。
 
 ### Google Voice
-***
 
 上一篇文章讲解了 [Firefox](https://dbarobin.com/2019/07/21/privacy-geek-firefox)，提到 Firefox 的使用技巧。本篇文章为大家讲解 [Google Voice](https://voice.google.com)。
 
@@ -280,7 +271,6 @@ Google Voice 可以用来接收短信、打电话，前提是要科学上网。�
 隐私应该是个人坚决捍卫的权利，Google Voice 是每个注重隐私保护的读者必备利器。
 
 ### 国内手机号
-***
 
 上一篇文章讲解了 [Google Voice](https://dbarobin.com/2019/08/10/privacy-geek-google-voice)，提到 Google Voice 的使用技巧。本篇文章为大家讲讲国内手机号。
 
@@ -317,7 +307,6 @@ Google Voice 可以用来接收短信、打电话，前提是要科学上网。�
 笔者将平时在践行的以及了解到的技巧分享给大家，希望大家少收到些骚扰电话或者短信。也期待 iOS 和 Android 系统在手机号这个隐私上多下功夫。
 
 ### Gmail
-***
 
 上一篇文章讲解了 [国内手机号](https://dbarobin.com/2019/08/18/privacy-geek-mobile)，提到国内手机号的一些使用技巧。本篇文章为大家讲讲 Gmail。
 
@@ -358,7 +347,6 @@ Google Voice 可以用来接收短信、打电话，前提是要科学上网。�
 Gmail 是笔者最为常用的邮箱服务。据笔者所知，Gmail 足够安全，Google 本身提供的漏洞奖金计划也特别良心。笔者不建议使用国内的任何邮箱服务，有条件还是要使用 Gmail 的。希望本文提供的技巧对读者有所帮助。
 
 ### ProtonMail
-***
 
 上一篇文章讲解了 [Gmail](https://dbarobin.com/2019/10/01/privacy-geek-gmail)，提到注册 Gmail 的必要性以及一些使用技巧。本篇文章为大家讲讲另一个邮箱服务 ProtonMail。
 
@@ -403,7 +391,6 @@ Gmail 是笔者最为常用的邮箱服务。据笔者所知，Gmail 足够安�
 在 Gmail 之外，ProtonMail 是一个相当不错的邮箱补充服务。ProtonMail 在安全和隐私方面做到了极致，强烈建议读者用起来。
 
 ### Apple ID
-***
 
 上一篇文章讲解了 [ProtonMail](https://dbarobin.com/2019/10/13/privacy-geek-protonmail/)，提到 ProtonMail 的一些使用技巧。本篇文章为大家讲讲大家习以为常的 Apple ID。
 
@@ -436,17 +423,14 @@ Gmail 是笔者最为常用的邮箱服务。据笔者所知，Gmail 足够安�
 以上建议和技巧希望能够给读者带来帮助，Apple ID 的安全和隐私非常重要，读者千万不能掉以轻心。
 
 ## 如何订阅
-***
 
 为了安全起见，读者只有四个渠道订阅本专栏，第一是本博客，RSS 订阅点击 [此处](https://dbarobin.com/feed.xml)。第二是在线小册，[https://privacy.dbarobin.com](https://privacy.dbarobin.com)。第三是 Telegram Channel，名叫 [隐私极客](https://t.me/privacygeek)。第四是 Mixin Channel，下载安装 [Mixin Messenger](https://mixin.one/messenger) 之后，访问 [mixin://users/b8f7e6e4-9ac2-4a85-9b17-257faac2d8d6](mixin://users/b8f7e6e4-9ac2-4a85-9b17-257faac2d8d6) 订阅。博客以文章为主，Telegram Channel 内容多样化且碎片化（图片、音频、视频、文字、链接等），Mixin Channel 作为同步渠道。归档页面点击 [此处](https://dbarobin.com/privacy/)。
 
 ## 关于作者
-***
 
 Robin，博主，区块链创业者。[https://dbarobin.com](https://dbarobin.com) · [dbarobin@github](https://github.com/dbarobin)
 
 ## 关于小册
-***
 
 > 本小册持续更新中。
 
@@ -455,6 +439,5 @@ Robin，博主，区块链创业者。[https://dbarobin.com](https://dbarobin.co
 为了方便阅读检索，特制作在线小册，以飨读者。
 
 ## 关于版权
-***
 
 采用「[创意共享 4.0 许可证](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)」，非商用，非衍生，保持署名。
