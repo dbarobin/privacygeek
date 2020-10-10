@@ -20,7 +20,7 @@
 * [Apple ID](#apple-id)
 * [KeyBase](#keybase)
 * [机智的党妹](#%E6%9C%BA%E6%99%BA%E7%9A%84%E5%85%9A%E5%A6%B9)
-* [Apple 剪贴板](#Apple%20%E5%89%AA%E8%B4%B4%E6%9D%BF)
+* [Apple 剪贴板](#apple-%e5%89%aa%e8%b4%b4%e6%9d%bfF)
 * [Wi-Fi](#wifi)
 * [Namecheap](#namecheap)
 * [Tuber](#tuber)
