@@ -20,7 +20,7 @@
 * [Apple ID](#apple-id)
 * [KeyBase](#keybase)
 * [机智的党妹](#%E6%9C%BA%E6%99%BA%E7%9A%84%E5%85%9A%E5%A6%B9)
-* [Apple 剪贴板](#apple-clipboard)
+* [Apple 剪贴板](#Apple%20%E5%89%AA%E8%B4%B4%E6%9D%BF)
 * [Wi-Fi](#wifi)
 * [Namecheap](#namecheap)
 * [Tuber](#tuber)
@@ -509,7 +509,7 @@ Keybase 是由哈佛数学系学生 [Chris Coyne](https://chriscoyne.com/) 和�
 
 隐私和安全是个永恒的问题，对于个人而言，防范永远是最重要的，因为你永远不知道你的数据将会在 Cyberspace 怎么流转。
 
-### Apple Clipboard
+### Apple 剪贴板
 
 **前言**
 ***
