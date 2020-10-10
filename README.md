@@ -19,7 +19,7 @@
 * [ProtonMail](#protonmail)
 * [Apple ID](#apple-id)
 * [KeyBase](#keybase)
-* [机智的党妹](#bilibili)
+* [机智的党妹](#%E6%9C%BA%E6%99%BA%E7%9A%84%E5%85%9A%E5%A6%B9)
 * [Apple 剪贴板](#apple-clipboard)
 * [Wi-Fi](#wifi)
 * [Namecheap](#namecheap)
@@ -468,7 +468,7 @@ Keybase 是由哈佛数学系学生 [Chris Coyne](https://chriscoyne.com/) 和�
 
 好了，Keybase 就介绍到这里。IM 满天飞的互联网世界，Keybase 是一个更极客般地存在。
 
-### Bilibili
+### 机智的党妹
 ***
 
 **前言**
